@@ -1,0 +1,4 @@
+[tool.poetry.scripts]
+post_install = """
+apt-get update && apt-get install -y libgl1-mesa-glx
+"""
