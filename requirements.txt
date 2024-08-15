@@ -1,10 +1,9 @@
 streamlit
 pydub
-deepface
+deepface==0.0.75
 pyAudioAnalysis
 janome
 vaderSentiment
 opencv-python-headless
 speechrecognition
-tensorflow==2.10.0  # Keras 2.xと互換性があるバージョン
-keras==2.10.0        # TensorFlow 2.10.0と互換性があるKerasのバージョン
+tensorflow==2.16.2  # 現在のPythonバージョンと互換性がある最新バージョン
