@@ -5,3 +5,4 @@ pyAudioAnalysis
 janome
 vaderSentiment
 opencv-python-headless
+speechrecognition
