@@ -6,4 +6,4 @@ janome
 vaderSentiment
 opencv-python-headless
 speechrecognition
-tensorflow==2.9.1  # 互換性が確認されたバージョン
+tensorflow==2.16.2  # 現在のPythonバージョンと互換性がある最新バージョン
