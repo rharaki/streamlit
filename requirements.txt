@@ -1,9 +1,10 @@
 streamlit
 pydub
-deepface==0.0.75  # deepfaceの最新安定バージョンを指定
+deepface
 pyAudioAnalysis
 janome
 vaderSentiment
 opencv-python-headless
 speechrecognition
-tensorflow==2.6.0  # tensorflowのバージョンを2.6.0に固定
+tf-keras
+tensorflow==2.6.0  # TensorFlowを互換性のあるバージョンにダウングレード
