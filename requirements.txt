@@ -1,0 +1,7 @@
+streamlit
+pydub
+deepface
+pyAudioAnalysis
+janome
+vaderSentiment
+opencv-python-headless
