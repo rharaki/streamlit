@@ -6,4 +6,4 @@ janome
 vaderSentiment
 opencv-python-headless
 speechrecognition
-tensorflow==2.16.2
+tensorflow==2.15.1
