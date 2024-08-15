@@ -6,3 +6,5 @@ janome
 vaderSentiment
 opencv-python-headless
 speechrecognition
+tf-keras
+tensorflow==2.6.0  # 必要に応じてTensorFlowのバージョンを指定
