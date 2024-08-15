@@ -6,5 +6,4 @@ janome
 vaderSentiment
 opencv-python-headless
 speechrecognition
-tensorflow==2.10.0
-keras==2.10.0
+tensorflow==2.16.2
